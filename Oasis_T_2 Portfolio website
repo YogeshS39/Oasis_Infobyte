@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name's Portfolio</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 150px;
+            border-radius: 50%;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #007BFF;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
 
+<header>
+    <h1>Yogesh Sonone</h1>
+</header>
+
+<main>
+    <img src="passport_picture_1725701250_366527 (1).png" alt="Yogesh Sonone">
+    <h2>About Me</h2>
+    <p>Welcome to my portfolio! I am Web Developer with experience in FrontEnd Development.</p>
+
+    <div class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: sononeyogesh39@email.com</p>
+        <p>LinkedIn: <a href="yogesh-sonone-9051a8294" target="_blank">My Profile</a></p>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2024 Sonone Yogesh</p>
+</footer>
+
+</body>
+</html>
